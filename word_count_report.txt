@@ -1,0 +1,8 @@
+Word count report
+Total Words: 141
+Top 5 Words:
+learning - 7
+of - 7
+a - 6
+machine - 5
+in - 5

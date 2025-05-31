@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sony vaio i5",
+        "price": "$790",
+        "description": ""
+    },
+    {
+        "name": "Sony vaio i7",
+        "price": "$790",
+        "description": ""
+    },
+    {
+        "name": "MacBook air",
+        "price": "$700",
+        "description": ""
+    },
+    {
+        "name": "Dell i7 8gb",
+        "price": "$700",
+        "description": ""
+    },
+    {
+        "name": "2017 Dell 15.6 Inch",
+        "price": "$700",
+        "description": ""
+    },
+    {
+        "name": "MacBook Pro",
+        "price": "$1100",
+        "description": ""
+    },
+    {
+        "name": "Apple monitor 24",
+        "price": "$400",
+        "description": ""
+    },
+    {
+        "name": "MacBook air",
+        "price": "$700",
+        "description": ""
+    },
+    {
+        "name": "Dell i7 8gb",
+        "price": "$700",
+        "description": ""
+    },
+    {
+        "name": "2017 Dell 15.6 Inch",
+        "price": "$700",
+        "description": ""
+    },
+    {
+        "name": "ASUS Full HD",
+        "price": "$230",
+        "description": ""
+    },
+    {
+        "name": "MacBook Pro",
+        "price": "$1100",
+        "description": ""
+    }
+]
